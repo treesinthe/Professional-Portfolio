@@ -1,5 +1,6 @@
 ---
 title: "Racing on the River"
+weight: 97
 summary: "As part of Wayne State University's Winter 2025 HIS 7835: Public History course, I worked with three other students to create and present an exhibit on Detroit's hydroplane racing history at the Dossin Great Lakes Museum, in partnership with the Detroit Historical Society."
 cover:
     image: boatthumbnail.png

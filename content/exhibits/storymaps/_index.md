@@ -1,5 +1,6 @@
 ---
 title: "ArcGIS Storymaps"
+weight: 98
 summary: "For my Winter 2024 internship with the City of Detroit's Historic Designation Advisory Board, I used the ArcGIS StoryMap program to create three digital exhibits on the history of Detroit's Cass Corridor."
 cover:
     image: specialprojects.png
