@@ -12,4 +12,4 @@ For my Winter 2024 internship with the City of Detroit's Historic Designation Ad
 
 [Cass Corridor's Native Communities](https://storymaps.arcgis.com/stories/f9ca681b21234869bd95c0597351440a)
 
-[Wayne State University in the Cass Corridor](https://storymaps.arcgis.com/stories/4c40756d1c7b46899c24e0a45bad42dfS)
+[Wayne State University in the Cass Corridor](https://storymaps.arcgis.com/stories/4c40756d1c7b46899c24e0a45bad42df)
