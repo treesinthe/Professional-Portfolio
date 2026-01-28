@@ -1,6 +1,6 @@
 ---
 title: "Detroit Historical Society Oral History Projects"
-summary: "Working as an Oral History Coordinator for the Detroit Historical Society, I've assisted with several oral history projects, and with the digital archive's managements."
+summary: "Working as an Oral History Coordinator for the Detroit Historical Society, I've assisted with several oral history projects, and with the digital archive's management."
 cover:
     image: thumbnail.png
 ---
