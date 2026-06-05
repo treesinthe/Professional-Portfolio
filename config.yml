@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Doris Lanzkron-Tamarazo
-          subtitle: "I am a graduate student of public history at Wayne State University, specializing in Detroit history."
+          subtitle: "I'm a public historian specializing in Detroit history. I graduated from Wayne State University in 2026 with a Master of Arts in Public History and work for the Detroit Historical Society as a docent and oral historian."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
